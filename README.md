@@ -3,7 +3,7 @@
 ## Description
 This repository concludes our final project for the ”Deep Learning” course. We present a model designed to
 recognize sports players and their actions on the court, incorporating various training methods and pre-trained
-models. We achieved a X% recognition accuracy and an inference time of X seconds per frame, which qualifies as
+models. We achieved a 60% recognition accuracy and an inference time that qualifies as
 real-time recognition.
 We enjoyed implementing the
 diverse techniques we acquired throughout the semester and creating a project that combines both our academic
