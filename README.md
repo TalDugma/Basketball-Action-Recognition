@@ -8,6 +8,8 @@ real-time recognition.
 We enjoyed implementing the
 diverse techniques we acquired throughout the semester and creating a project that combines both our academic
 learning and personal interests.
+![Example Image]![Example Image](https://example.com/path/to/image.jpg)
+
 
 ## Table of Contents
 •⁠  ⁠[Installation](#installation)
